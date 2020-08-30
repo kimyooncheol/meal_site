@@ -1,11 +1,13 @@
 # 급식 정보 제공 사이트
-![logo](https://ssl.nx.com/s2/game/maplestory/renewal/common/logo.png)
 ## Project Info
 - 나이스 교육정보 개방 포털에 있는 급식식단API를 이용하여 DB에 저장된 학교들의 급식을 알려주는 사이트 입니다.
 ## Picture
-
+![index](https://github.com/kimyooncheol/meal_site/blob/master/image/index.PNG?raw=true)<br>
+/index<br>
+![food](https://github.com/kimyooncheol/meal_site/blob/master/image/meal.PNG?raw=true)<br>
+/food<br>
 ## 구조도
-
+![map](https://github.com/kimyooncheol/meal_site/blob/master/image/meal_map.PNG?raw=true)<br>
 ## DataBase구조
 |sd_schul_code|schul_nm         |atpt_ofcdc_sc_code|atpt_ofcdc_sc_name|
 |:-----------:|:---------------:|:----------------:|:----------------:|
