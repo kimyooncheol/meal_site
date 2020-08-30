@@ -7,7 +7,7 @@
 ![food](https://github.com/kimyooncheol/meal_site/blob/master/image/meal.PNG?raw=true)<br>
 /food<br>
 ## 구조도
-![map](https://github.com/kimyooncheol/meal_site/blob/master/image/meal_map.PNG?raw=true)<br>
+![map](https://github.com/kimyooncheol/meal_site/blob/master/image/meal_map.png?raw=true)<br>
 ## DataBase구조
 |sd_schul_code|schul_nm         |atpt_ofcdc_sc_code|atpt_ofcdc_sc_name|
 |:-----------:|:---------------:|:----------------:|:----------------:|
